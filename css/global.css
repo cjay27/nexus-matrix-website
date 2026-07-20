@@ -2720,17 +2720,17 @@ h4 {
 }
 
 .hero-slide.slide-1 {
-  background-image: url('/images/young-businesswoman-typing-laptop-using-wireless-connection-generated-by-ai.jpg');
+  background-image: url('../images/young-businesswoman-typing-laptop-using-wireless-connection-generated-by-ai.jpg');
   animation-delay: 0s;
 }
 
 .hero-slide.slide-2 {
-  background-image: url('/images/technology-integrated-everyday-life.jpg');
+  background-image: url('../images/technology-integrated-everyday-life.jpg');
   animation-delay: 6s;
 }
 
 .hero-slide.slide-3 {
-  background-image: url('/images/digital-world-banner-background-remixed-from-public-domain-by-nasa.jpg');
+  background-image: url('../images/digital-world-banner-background-remixed-from-public-domain-by-nasa.jpg');
   animation-delay: 12s;
 }
 
