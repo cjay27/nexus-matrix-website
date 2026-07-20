@@ -469,7 +469,7 @@
             <h2>Send us a message</h2>
             <p class="form-sub">Fill in the form below and an AI specialist will reach out within one business day.</p>
 
-            <form id="contact-form" action="/php/contact.php" method="POST" novalidate>
+            <form id="contact-form" action="/" method="POST" novalidate>
               <!-- Honeypot — do not remove -->
               <input type="text" name="website" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true">
 
@@ -860,7 +860,7 @@
 
       var data = new FormData(form);
 
-      fetch('/php/contact.php', {
+      fetch('/api/contact', {
         method: 'POST',
         body: data
       })
