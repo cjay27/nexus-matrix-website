@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Core pages -->
+  <url>
+    <loc>https://nexusmatrix.com/</loc>
+    <lastmod>2025-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nexusmatrix.com/about</loc>
+    <lastmod>2025-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusmatrix.com/contact</loc>
+    <lastmod>2025-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://nexusmatrix.com/services</loc>
+    <lastmod>2025-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://nexusmatrix.com/industries</loc>
+    <lastmod>2025-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusmatrix.com/ai-models</loc>
+    <lastmod>2025-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nexusmatrix.com/hire-ai-developers</loc>
+    <lastmod>2025-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Hire sub-pages -->
+  <url><loc>https://nexusmatrix.com/hire-ai-developers/machine-learning-engineers</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nexusmatrix.com/hire-ai-developers/generative-ai-developers</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nexusmatrix.com/hire-ai-developers/llm-engineers</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nexusmatrix.com/hire-ai-developers/chatbot-developers</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nexusmatrix.com/hire-ai-developers/computer-vision-engineers</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nexusmatrix.com/hire-ai-developers/data-scientists</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nexusmatrix.com/hire-ai-developers/prompt-engineers</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nexusmatrix.com/hire-ai-developers/mlops-engineers</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- AI Models -->
+  <url><loc>https://nexusmatrix.com/ai-models/gpt-integration</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nexusmatrix.com/ai-models/claude-integration</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nexusmatrix.com/ai-models/gemini-integration</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nexusmatrix.com/ai-models/llama-development</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nexusmatrix.com/ai-models/mistral-development</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nexusmatrix.com/ai-models/stable-diffusion-development</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nexusmatrix.com/ai-models/whisper-integration</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nexusmatrix.com/ai-models/open-source-llm-solutions</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Supporting pages -->
+  <url><loc>https://nexusmatrix.com/case-studies</loc><lastmod>2025-07-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nexusmatrix.com/testimonials</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://nexusmatrix.com/faq</loc><lastmod>2025-07-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://nexusmatrix.com/privacy-policy</loc><lastmod>2025-07-17</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://nexusmatrix.com/terms-of-service</loc><lastmod>2025-07-17</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+
+</urlset>

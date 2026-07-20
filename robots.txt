@@ -1,0 +1,38 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you
+Disallow: /search
+Disallow: /chat.php
+Disallow: /contact.php
+Disallow: /php/
+
+# Allow all major AI / search crawlers explicitly
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Sitemap index
+Sitemap: https://nexusmatrix.com/sitemap.xml
+Sitemap: https://nexusmatrix.com/sitemap-pages.xml
+Sitemap: https://nexusmatrix.com/sitemap-services.xml
+Sitemap: https://nexusmatrix.com/sitemap-industries.xml
